@@ -2,7 +2,7 @@
 
 仅用于展示小猫源编写，方便参考
 
-![Image 350x314.gif](https://s2.loli.net/2025/10/12/EVSOIbTzfWkoNB7.gif)
+
 
 ```bash
 bun install
